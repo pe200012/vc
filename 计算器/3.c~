@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int power(int x)
+{
+	
+}
+
+int main(void)
+{
+	int x;
+	printf("Hello!\n");
+	system("call doss.bat");
+	return 0;
+}

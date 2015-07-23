@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/2/9 14:57:54。
+     1>项目“E:\vc\temp\temp\temp.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\源.cpp"
+         源.cpp
+     1>..\源.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>..\源.cpp(14): error C2065: “cout”: 未声明的标识符
+     1>..\源.cpp(14): error C2001: 常量中有换行符
+     1>..\源.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+     1>..\源.cpp(15): error C2065: “cin”: 未声明的标识符
+     1>..\源.cpp(18): error C2065: “cout”: 未声明的标识符
+     1>..\源.cpp(18): error C2001: 常量中有换行符
+     1>..\源.cpp(19): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+     1>..\源.cpp(19): error C2065: “cin”: 未声明的标识符
+     1>..\源.cpp(20): error C2065: “cin”: 未声明的标识符
+     1>..\源.cpp(24): error C2065: “cout”: 未声明的标识符
+     1>..\源.cpp(24): error C2065: “endl”: 未声明的标识符
+     1>..\源.cpp(26): error C2065: “cout”: 未声明的标识符
+     1>..\源.cpp(26): error C2065: “endl”: 未声明的标识符
+     1>..\源.cpp(42): error C2065: “cout”: 未声明的标识符
+     1>..\源.cpp(42): error C2065: “endl”: 未声明的标识符
+     1>已完成生成项目“E:\vc\temp\temp\temp.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.66
